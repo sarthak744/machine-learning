@@ -4,13 +4,13 @@
 # In[1]:
 
 
-print('hello world')
+
 
 
 # In[2]:
 
 
-print("hello")
+
 
 
 # In[69]:
